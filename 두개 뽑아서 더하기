@@ -1,0 +1,29 @@
+import java.util.HashSet;
+import java.util.Set;
+import java.util.stream.Collectors;
+
+class Solution {
+  
+  
+public int[] solution(int[] numbers) {
+           
+            Set <Integer> answerSet = new HashSet<>();
+    
+            for (int i = 0; i < numbers.length; i++) {
+                for (int j = i + 1; j < numbers.length; j++) {
+                    answerSet.add(numbers[i] + numbers[j]);
+                  
+                    }
+                }
+                  // 정렬 + 배열로 변환 필요
+                  //stream : stream생성().중개연산().최종연산
+                  // mapToInt : int stream으로 변환
+                return answerSet.stream().sorted().mapToInt(Integer::intValue).toArray();
+            }
+
+        
+    }
+    
+    
+// TreeSet을 사용할 경우 중복값 제거 + 자동정렬 but 배열로 변환하는데 잘 안됨 ㅠ
+// HashSet을 사용할 경우 마지막에 정렬 + 배열로 변환 필요
