@@ -9,10 +9,12 @@
 
 |  <center>SQL</center> |  <center>코드리뷰</center> |  <center>문제</center> |
 |:--------|:--------:|--------:|
-|**SQL** | <center>[입양 시각 구하기(1)](https://github.com/racheljeong/Programmers/blob/main/%EC%9E%85%EC%96%91%EC%8B%9C%EA%B0%81%EA%B5%AC%ED%95%98%EA%B8%B0(1))</center> |*[문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/59412)* |
-
+|**SQL** | <center>[입양 시각 구하기(1)](https://github.com/racheljeong/Programmers/blob/main/%EC%9E%85%EC%96%91%EC%8B%9C%EA%B0%81%EA%B5%AC%ED%95%98%EA%B8%B0(2))</center> |*[문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/59412)* |
+|**SQL** | <center>[입양 시각 구하기(2)](https://github.com/racheljeong/Programmers/blob/main/%EC%9E%85%EC%96%91%EC%8B%9C%EA%B0%81%EA%B5%AC%ED%95%98%EA%B8%B0(1))</center> |*[문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/59413)* |
 
 
 
 <!--|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
 |**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |-->
+
+
